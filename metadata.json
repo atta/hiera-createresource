@@ -1,0 +1,16 @@
+{
+  "name": "ajaz-hiera_createresource",
+  "version": "0.1.1",
+  "author": "ajaz",
+  "summary": "create puppet resources with a single hiera call",
+  "license": "Apache 2.0",
+  "source": "https://github.com/atta/hiera-createresource",
+  "project_page": "https://github.com/atta/hiera-createresource",
+  "issues_url": "https://github.com/atta/hiera-createresource/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}

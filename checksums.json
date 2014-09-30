@@ -1,0 +1,11 @@
+{
+  "README.md": "b5e9c72130e4db0ba90500957a525d20",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "lib/puppet/parser/functions/hiera_class.rb": "8c4a49d2661ee65868b9588fba05df70",
+  "lib/puppet/parser/functions/hiera_define.rb": "b831b4acacc970cdcadb76f3d468209e",
+  "manifests/init.pp": "159da796cc854b0301cba8e431f7e834",
+  "metadata.json": "2ab3c9a8d56b3a135e365430dff0fde2",
+  "spec/classes/init_spec.rb": "c6c6efc53aa3cafaee09d71abf595658",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "tests/init.pp": "6e0c6268d807e9696e87046331350799"
+}
